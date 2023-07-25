@@ -1,0 +1,85 @@
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/appsettings.Development.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/appsettings.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.staticwebassets.runtime.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.deps.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.runtimeconfig.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.pdb
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Azure.Core.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Azure.Identity.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.csproj.AssemblyReference.cache
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.AssemblyInfoInputs.cache
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.AssemblyInfo.cs
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.csproj.CoreCompileInputs.cache
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.MvcApplicationPartsAssemblyInfo.cache
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.RazorAssemblyInfo.cache
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.RazorAssemblyInfo.cs
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets/msbuild.ASP.NET CORE WEB APP WITH SQL AND CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets/msbuild.build.ASP.NET CORE WEB APP WITH SQL AND CRUD.props
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NET CORE WEB APP WITH SQL AND CRUD.props
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ASP.NET CORE WEB APP WITH SQL AND CRUD.props
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets.build.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/staticwebassets.development.json
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/scopedcss/bundle/ASP.NET CORE WEB APP WITH SQL AND CRUD.styles.css
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/scopedcss/projectbundle/ASP.NET CORE WEB APP WITH SQL AND CRUD.bundle.scp.css
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.csproj.CopyComplete
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/refint/ASP.NET CORE WEB APP WITH SQL AND CRUD.dll
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.pdb
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ASP.NET CORE WEB APP WITH SQL AND CRUD.genruntimeconfig.cache
+/Users/manuelhrgetic/Projects/ASP.NET CORE WEB APP WITH SQL AND CRUD/ASP.NET CORE WEB APP WITH SQL AND CRUD/obj/Debug/net6.0/ref/ASP.NET CORE WEB APP WITH SQL AND CRUD.dll
